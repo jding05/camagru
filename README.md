@@ -1,5 +1,5 @@
 # camagru
-
+A customized Instagram-like web application for users to display and share pictures within user-defined groups
 
 ### The main gallery
 * Display all the photos uploaded from different users
@@ -8,6 +8,7 @@
 
 ### Webcam && Upload
 * User capture photo from webcam or upload files from local 
+![](/assets/figure4.png)
 ![](/assets/figure2.png)
 
 ### Post
